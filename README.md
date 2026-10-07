@@ -39,9 +39,9 @@ Repositori ini disusun secara berurutan sesuai dengan materi yang dipelajari set
 ---
 
 ## 🎥 Tautan Dokumentasi Video
-Penjelasan logika kode dan demonstrasi hasil *running* program dari seluruh materi di atas dapat dilihat pada *playlist* YouTube berikut:
+Penjelasan logika kode dan demonstrasi hasil *running* program dari seluruh materi di atas dapat dilihat pada *playlist* YouTube berikut: 
 
-🔗 **[Masukkan Link Playlist YouTube Kamu Di Sini]**
+🔗 **[https://youtube.com/playlist?list=PLO2F4psTi9mE&si=r8moWucnDZ5I97qG]**
 
 ---
 
